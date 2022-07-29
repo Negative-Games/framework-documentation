@@ -1,0 +1,6 @@
+site_name: Framework by Negative Games
+site_url: https://framework.negative.games/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
